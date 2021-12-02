@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zgjimkrasniqi
-- 👀 I’m interested in Android Development and Artificial Intelligence.
-- 🌱 I’m currently learning Artificial Intelligence, Machine Learning and Android Development.
+- 👀 For the moment I’m interested in Android Development and Web Development (Angular & Spring Boot).
+- 🌱 I’m currently learning Angular and Spring Boot.
 - 📫 Email: zgjimkrasniqi27@gmail.com
 
 <!---
